@@ -32,6 +32,8 @@ The system follows this processing pipeline:
 5. **Robot Motion Calculation:** Compute the required Delta robot joint angles using inverse kinematics.
 6. **PLC Communication:** Transfer motion commands and control data to the Mitsubishi PLC.
 7. **Automated Palletizing:** Execute pick-and-place operations using a suction-based end effector.
+<img width="866" height="479" alt="image" src="https://github.com/user-attachments/assets/c224273f-e37a-4d47-93bb-36d031c68a72" />
+
 
 ## Hardware
 
@@ -41,6 +43,7 @@ The system follows this processing pipeline:
 - Mitsubishi RD77MS4 motion control module
 - Suction-based end effector
 - Conveyor and associated control components
+<img width="675" height="440" alt="image" src="https://github.com/user-attachments/assets/68dc3d07-db93-4ac9-9ac7-0768f3a24764" />
 
 ## Software and Technologies
 
@@ -52,6 +55,8 @@ The system follows this processing pipeline:
 - **Robotics:** Delta robot inverse kinematics
 - **Palletizing Algorithm:** 3D bin packing and collision checking
 - **Monitoring Interface:** Operator interface for system status and control
+<img width="801" height="229" alt="image" src="https://github.com/user-attachments/assets/50fccb56-0d4d-42f2-9e92-d0e559997d24" />
+<img width="849" height="286" alt="image" src="https://github.com/user-attachments/assets/bf33b9a7-354e-4cab-9440-226340206250" />
 
 ## Experimental Results
 
@@ -75,6 +80,9 @@ Add project photos, a system architecture diagram, or a demonstration video here
 - System overview: `docs/architecture.png`
 - Vision processing results: `docs/vision-results.png`
 - Palletizing demonstration:(https://www.youtube.com/watch?v=zGNEYnBggOM)
+<img width="779" height="315" alt="image" src="https://github.com/user-attachments/assets/3e64900d-5cad-4e7b-a25f-509564d07199" />
+<img width="641" height="813" alt="image" src="https://github.com/user-attachments/assets/853b9537-c4fd-4b6e-96f5-fa11d0481457" />
+<img width="630" height="782" alt="image" src="https://github.com/user-attachments/assets/4f01727b-e1ff-4507-82b8-4232ebdd1365" />
 
 ## Project Scope and Limitations
 
